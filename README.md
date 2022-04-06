@@ -1,5 +1,3 @@
-!-- Please update value in the {} -->
-
 <h1 align="center">Memory Card App</h1>
 
 <div align="center">
