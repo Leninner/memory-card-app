@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/67031243/156062889-7dd2fce8-166a-4ace-9dbc-63a6a7bbaa85.png)
+![image](https://user-images.githubusercontent.com/67031243/161881742-6786aad4-a412-46ea-ab28-872c1129f5e5.png)
 
 Shoppingify List allows you to take your shopping lists wherever you want. This project works both on desktop and mobile.
 You will be able to find this application in this [link](https://shoppingify-project.vercel.app/) and start using it right away.
